@@ -6,6 +6,14 @@
 
 This repository contains the hardware design files and software for the NeuroFocus EEG project, which utilizes an ESP32C3 Xiao board with an integrated TL084PW chip for 8-channel EEG data acquisition. The project aims to develop a portable and affordable EEG (Electroencephalogram) device for neurofeedback and brainwave monitoring.
 
+**How to Order a PCB and Get SMT Assembly**
+
+1. **Design:** Create Gerber files from your PCB layout.
+2. **Components:** List components in a Bill of Materials (BOM).
+3. **Fabrication:** Send Gerber files to a PCB manufacturer.
+4. **Assembly:** Send PCB and BOM to an SMT assembly service.
+
+
 ## Features
 
 - Compact and lightweight design
